@@ -1,0 +1,48 @@
+
+body{
+    background-color:rgb(248, 204, 148);
+}
+h2{
+    color:black;
+    font-optical-sizing: auto;
+    .emblema-one-regular {
+        font-family: "Emblema One", system-ui;
+        font-weight: 400;
+        font-style: normal;
+      }
+      -webkit-text-fill-color: saddlebrown;
+      -webkit-text-stroke: 1px;
+  }
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(176, 255, 242)
+}
+p{
+    font-family:'Courier New', Courier, monospace
+}
+li{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+}
+header {
+    text-align: center;
+    background: url('images/forest.jpg');
+    background-size: cover;
+    color: black;
+}
+article {
+    margin: 0 auto;
+    max-width: 500px;
+    padding: 20px;
+}
+.special{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+    color: white;
+}
+img{
+    border-radius:20px;
+    border: 7px solid black ;
+    width:350px;
+    height:auto;
+}
