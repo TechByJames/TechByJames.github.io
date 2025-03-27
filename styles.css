@@ -34,6 +34,7 @@ header {
     background: url('images/background.jpeg');
     background-size: cover;
     color: white;
+    padding: 20px 0px 0px 0px;
   }
 article {
     margin: 0 auto;
@@ -50,4 +51,11 @@ img{
     border: 7px solid black ;
     width:350px;
     height:auto;
+}
+ul{
+    padding: 10px;
+}
+li{
+    display:inline;
+    padding: 0px 10px 0px 10px;
 }
