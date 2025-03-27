@@ -20,8 +20,12 @@ h2{
   }
 h1 {
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
     color:black;
+    font-optical-sizing: auto;
+    .emblema-one-regular {
+        font-family: "Emblema One", system-ui;
+        font-weight: 400;
+        font-style: normal;
 }
 p{
     font-family:'Courier New', Courier, monospace
